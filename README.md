@@ -1,5 +1,5 @@
 # Diabetics-Prediction-using-Machine-Learning
-#Abstract: 
+Abstract: 
    The aim of this project is to develop a predictive model to assess the likelihood of diabetes in individuals using machine learning algorithms(comparitive study). By leveraging the Pima Indian Diabetes dataset sourced from Kaggle, various classification algorithms were implemented, and their performance was compared. Random Forest emerged as the most accurate algorithm, highlighting its robustness in handling structured healthcare data.
 Dataset Description: The dataset consists of 768 observations and 8 features, including:
      Pregnancies
