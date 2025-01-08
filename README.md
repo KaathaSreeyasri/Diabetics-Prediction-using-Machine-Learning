@@ -12,14 +12,14 @@ Dataset Description: The dataset consists of 768 observations and 8 features, in
 The target variable is a binary classification indicating the presence or absence of diabetes.
 Methodology:
 1.	Data Preprocessing:
-	Data cleaning and handling of missing values.
+	Data cleaning and handling of missing values,
 	Feature scaling to standardize the data.
 2.	Algorithms Implemented:
-	Decision Tree
-	K-Nearest Neighbors (KNN)
-	Random Forest
-	Logistic Regression
-	Naive Bayes
+	Decision Tree,
+	K-Nearest Neighbors (KNN),
+	Random Forest,
+	Logistic Regression,
+	Naive Bayes.
 3.	Performance_Metrics:
         Accuracy was used as the primary metric for comparison.
 4.	Implementation:
